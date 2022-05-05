@@ -14,7 +14,7 @@ This project was developed to train HTML and CSS with a more modern design and u
 
 ### CONVENTIONS
 
-Conventions adopted in the work environment for the Login Page project:
+Conventions adopted in the work environment for the project:
 
      Rule for name of classes and tables and columns in a db: firstName
      All classes must be represented by a noun and not a verb: Customers, Contacts, Profile, Settings etc;
